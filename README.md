@@ -1,5 +1,8 @@
 # Splendor Analytics — Trial Activation 
 
+<img width="2822" height="1668" alt="task3_product_metrics_dashboard" src="https://github.com/user-attachments/assets/a4d139db-6537-4af2-bdc2-6723edebf890" />
+
+
 ## The Problem
 
 Splendor Analytics runs a 30-day free trial for new organisations signing up to its workforce management platform — covering shift scheduling, time tracking, payroll approvals, and team communications.
